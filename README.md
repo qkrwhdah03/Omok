@@ -1,2 +1,1 @@
-# qkrwhdah03
-I 'm studying right now... 
+## Implementing Omoku with C++.
